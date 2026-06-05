@@ -15,7 +15,7 @@ As a result, the cultural significance of thousands of artifacts goes unexplored
 ---
 
 ## 💡 What is ArtifactX?
-ArtifactX is a mobile application that allows museum visitors to instantly learn about any artifact by simply pointing their phone camera at it. Using visual recognition technology (similar to Google Lens), the app identifies the artifact and delivers its history, origins, and cultural significance — in the visitor's native language.
+ArtifactX is a mobile application that allows museum visitors to instantly learn about any artifact by simply pointing their phone camera at it. Using visual recognition technology , the app identifies the artifact and delivers its history, origins, and cultural significance — in the visitor's native language.
 
 The app works both **online and offline**, making it accessible in any museum, anywhere in the world.
 
