@@ -69,13 +69,13 @@ No QR codes. No downloads. No setup. Just point and scan.
 ┌─────────────────────────────────────────────────────────────┐
 │              MUSEUM ENGINE V1.0 — AI VISION CORE            │
 │                                                             │
-│   Input:  Museum Knowledge Base + Visual Input        │
+│   Input:  Museum Knowledge Base + Visual Input              │
 │                                                             │
 │   Step 1: VALIDATE — is this a real artifact?               │
 │              │                                              │
 │      ┌───────┴────────┐                                     │
 │      ▼                ▼                                     │
-│   ❌ Not artifact   ✅ Is artifact                           │
+│   ❌ Not artifact   ✅ Is artifact                         │
 │   → Reject msg      → Identify                              │
 │                        │                                    │
 │                        ▼                                    │
