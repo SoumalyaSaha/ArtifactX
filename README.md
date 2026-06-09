@@ -87,7 +87,7 @@ No QR codes. No downloads. No setup. Just point and scan.
 │              │                                              │
 │      ┌───────┴────────┐                                     │
 │      ▼                ▼                                     │
-│   ❌ Not artifact   ✅ Is artifact                           │
+│   ❌ Not artifact   ✅ Is artifact                         │
 │   → Reject msg      → Identify                              │
 │                        │                                    │
 │                        ▼                                    │
