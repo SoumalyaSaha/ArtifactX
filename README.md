@@ -262,7 +262,10 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Period:** Late 20th Century (1978 CE) · Greece  
 **Language:** Bengali + English  
 
-![Tester 4 – Greek 50 Drachmas Banknote](screenshots/tester4-greek-drachma.jpeg)
+![Tester 4 – Greek 50 Drachmas Banknote]
+
+<img width="300" height="600" alt="WhatsApp Image 2026-06-10 at 18 48 31 (2)" src="https://github.com/user-attachments/assets/b1203768-c198-42cb-85da-22c8008a39d9" />
+
 
 ---
 
