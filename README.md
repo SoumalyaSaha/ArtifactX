@@ -38,18 +38,24 @@ The video shows:
 <h3 align="center">📱 What you see on your phone — the complete user experience</h3>
 <div align="center">
   <table>
-    <tr>
-      <td>
+    <tr valign="top">
+      <td width="33%">
         <p align="center"><b>Step 1: Point & Scan</b></p>
-        <img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="260" alt="App scan view" style="border-radius: 20px; border: 4px solid #333;">
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" height="500" alt="App scan view" style="border-radius: 20px; border: 4px solid #333; object-fit: cover;">
+        </p>
       </td>
-      <td>
+      <td width="33%">
         <p align="center"><b>Step 2: Instant History</b></p>
-        <img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" width="260" alt="History details view" style="border-radius: 20px; border: 4px solid #333;">
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" height="500" alt="History details view" style="border-radius: 20px; border: 4px solid #333; object-fit: cover;">
+        </p>
       </td>
-      <td>
+      <td width="33%">
         <p align="center"><b>Step 3: Audio Narration</b></p>
-        <img src="https://github.com/user-attachments/assets/44172fb3-64cf-44dd-b6b6-7cde2c9f8d29" width="260" alt="Audio narration view" style="border-radius: 20px; border: 4px solid #333;">
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/44172fb3-64cf-44dd-b6b6-7cde2c9f8d29" height="500" alt="Audio narration view" style="border-radius: 20px; border: 4px solid #333; object-fit: cover;">
+        </p>
       </td>
     </tr>
   </table>
