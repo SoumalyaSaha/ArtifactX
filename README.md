@@ -219,7 +219,7 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Period:** New Kingdom, 18th Dynasty (Amarna Period), c. 1332–1323 BCE  
 **Language:** Bengali + English  
 
-![Tester 1 – Funerary Mask of Pharaoh Tutankhamun](<img src="https://github.com/user-attachments/assets/e7bca806-88be-4d3b-a052-e6b4eb0ca58a" />)
+![Tester 1 – Funerary Mask of Pharaoh Tutankhamun](<img src="https://github.com/user-attachments/assets/e7bca806-88be-4d3b-a052-e6b4eb0ca58a">)
 
 ---
 
