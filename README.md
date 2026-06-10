@@ -220,8 +220,8 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Language:** Bengali + English  
 
 ![Tester 1 – Funerary Mask of Pharaoh Tutankhamun]
-(<img width="72" height="160" alt="WhatsApp Image 2026-06-10 at 20 13 32 (1)" src="https://github.com/user-attachments/assets/015de2b3-b589-4e4a-8a49-1cc8be0f51dd" />
-)
+<img src="https://github.com/user-attachments/assets/015de2b3-b589-4e4a-8a49-1cc8be0f51dd" />
+
 
 ---
 
