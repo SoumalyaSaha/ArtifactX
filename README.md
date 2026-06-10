@@ -37,7 +37,7 @@ The video shows:
 
 > What you see on your phone — the complete user experience
 
-| 📷 Point. Scan. Discover.      | 🏛️ 1,700 Years of History — Instantly         | 🔊 Hear It In Your Language |
+| 📷 Point. Scan. Discover.                  | 🏛️ 1,700 Years of History — Instantly                       | 🔊 Hear It In Your Language |
 
 <div align="center">
  <img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="32% alt="Scanning Interface">
