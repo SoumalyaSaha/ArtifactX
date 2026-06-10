@@ -230,7 +230,9 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Period:** Pala Period, 9th–12th Century CE · Eastern India (Bengal/Bihar)  
 **Language:** Bengali + English  
 
-![Tester 2 – Pala Period Celestial Dancer]()
+![Tester 2 – Pala Period Celestial Dancer]
+<img width="300" height="600" alt="WhatsApp Image 2026-06-10 at 18 07 47 (2)" src="https://github.com/user-attachments/assets/e5eb2290-92dd-497d-841b-b2cb7227a924" />
+
 
 ---
 
