@@ -35,10 +35,18 @@ The video shows:
 
 ## 📱 Client-Side Interface
 
-> What you see on your phone — the complete user experience
+<h3 align="center">📱 What you see on your phone — the complete user experience</h3>
 
-| 📷 Point. Scan. Discover.                  | 🏛️ 1,700 Years of History — Instantly                       | 🔊 Hear It In Your Language |
-
+<table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
+  <!-- HEADINGS ROW -->
+  <tr style="border: none;">
+    <td width="30%"><b>📸 Point. Scan. Discover.</b></td>
+    <td width="3%"></td> <!-- Invisible spacing column -->
+    <td width="30%"><b>🏛️ 1,700 Years of History — Instantly</b></td>
+    <td width="3%"></td> <!-- Invisible spacing column -->
+    <td width="30%"><b>🗣️ Hear It In Your Language</b></td>
+  </tr> 
+ 
 <div align="center">
  <img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="32% alt="Scanning Interface">
  <img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" width="32% alt="Artifact Result Card">
