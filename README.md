@@ -39,7 +39,7 @@ The video shows:
 
 | 📷 Point. Scan. Discover. | 🏛️ 1,700 Years of History — Instantly | 🔊 Hear It In Your Language |
 |:---:|:---:|:---:|
-| ![Scanning Interface](<img width="97" height="160" alt="WhatsApp Image 2026-06-10 at 20 29 44 (3)" src="https://github.com/user-attachments/assets/145e744e-404d-463f-960d-51d65bda367e" />) | ![Artifact Result Card](screenshots/result-card.jpeg) | ![Multilingual Audio](screenshots/audio-panel.jpeg) |
+| ![Scanning Interface](screenshots/WhatsApp Image 2026-06-10 at 20 29 44 (3).jpeg) | ![Artifact Result Card](screenshots/result-card.jpeg) | ![Multilingual Audio](screenshots/audio-panel.jpeg) |
 | **Live camera locks onto the artifact** — just point your phone and tap. No QR codes. No setup. | **Full history, period, and cultural context** — identified in seconds from a single photo. | **English and Bengali narration** — tap to hear the artifact's story spoken aloud in your language. |
 
 ---
