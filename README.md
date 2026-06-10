@@ -40,11 +40,11 @@ The video shows:
 <table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
   
   <tr style="border: none;">
-    <td width="30%"><b>📸 Point. Scan. Discover.</b></td>
+    <td width="40%"><b>📸 Point. Scan. Discover.</b></td>
     <td width="3%"></td> <!-- Invisible spacing column -->
-    <td width="30%"><b>🏛️ 1,700 Years of History — Instantly</b></td>
+    <td width="40%"><b>🏛️ 1,700 Years of History — Instantly</b></td>
     <td width="3%"></td> <!-- Invisible spacing column -->
-    <td width="30%"><b>🗣️ Hear It In Your Language</b></td>
+    <td width="40%"><b>🗣️ Hear It In Your Language</b></td>
   </tr> 
    
   <tr style="border: none;">
