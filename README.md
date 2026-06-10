@@ -12,7 +12,7 @@
 
 ## 🔗 Live Demo
 
-**👉 [https://tiny-begonia-1ca245.netlify.app/](https://tiny-begonia-1ca245.netlify.app/)**
+**👉 [https://tiny-begonia-1ca245.netlify.app/](https://magenta-stroopwafel-02617e.netlify.app/)**
 
 > Open on your phone, point at any museum artifact, and tap scan. No install required.
 
