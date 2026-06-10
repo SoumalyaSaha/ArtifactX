@@ -38,11 +38,11 @@ The video shows:
 > What you see on your phone — the complete user experience
 
 | 📷 Point. Scan. Discover. | 🏛️ 1,700 Years of History — Instantly | 🔊 Hear It In Your Language |
-|:---:|:---:|:---:|
+
 <div align="center">
-![Scanning Interface]<img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="32% >
-![Artifact Result Card]<img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" width="32% >
-![Multilingual Audio]<img src="https://github.com/user-attachments/assets/44172fb3-64cf-44dd-b6b6-7cde2c9f8d29" width="32% >
+ <img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="32% alt="Scanning Interface">
+ <img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" width="32% alt="Artifact Result Card">
+ <img src="https://github.com/user-attachments/assets/44172fb3-64cf-44dd-b6b6-7cde2c9f8d29" width="32% alt="Multilingual Audio">
 </div>
 | **Live camera locks onto the artifact** — just point your phone and tap. No QR codes. No setup. | **Full history, period, and cultural context** — identified in seconds from a single photo. | **English and Bengali narration** — tap to hear the artifact's story spoken aloud in your language. |
 
