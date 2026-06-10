@@ -219,8 +219,10 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Period:** New Kingdom, 18th Dynasty (Amarna Period), c. 1332–1323 BCE  
 **Language:** Bengali + English  
 
-![Tester 1 – Funerary Mask of Pharaoh Tutankhamun]
-<img src="https://github.com/user-attachments/assets/015de2b3-b589-4e4a-8a49-1cc8be0f51dd" />
+[Tester 1 – Funerary Mask of Pharaoh Tutankhamun]
+
+<img width="300" height="600" alt="WhatsApp Image 2026-06-10 at 20 13 32 (1)" src="https://github.com/user-attachments/assets/d5ec2b8c-dccb-4ad8-b3a9-45ac9e47247a" />
+
 
 
 ---
@@ -230,7 +232,8 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Period:** Pala Period, 9th–12th Century CE · Eastern India (Bengal/Bihar)  
 **Language:** Bengali + English  
 
-![Tester 2 – Pala Period Celestial Dancer]
+[Tester 2 – Pala Period Celestial Dancer]
+
 <img width="300" height="600" alt="WhatsApp Image 2026-06-10 at 18 07 47 (2)" src="https://github.com/user-attachments/assets/e5eb2290-92dd-497d-841b-b2cb7227a924" />
 
 
@@ -241,7 +244,10 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 **Period:** Pala-Sena Dynasty, 10th–12th Century CE · Bengal/Bihar, India  
 **Language:** Bengali + English  
 
-![Tester 3 – Uma-Maheshvara Sculpture](screenshots/tester3-uma-maheshvara.jpeg)
+[Tester 3 – Uma-Maheshvara Sculpture]
+
+<img width="300" height="600" alt="WhatsApp Image 2026-06-10 at 18 07 47 (3)" src="https://github.com/user-attachments/assets/0764e7f7-f158-4481-a5a3-b5b11b9c0d35" />
+
 
 ---
 
