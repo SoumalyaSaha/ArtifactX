@@ -36,25 +36,25 @@ The video shows:
 ## 📱 Client-Side Interface
 
 <h3 align="center">📱 What you see on your phone — the complete user experience</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center"><b>Step 1: Point & Scan</b></p>
+        <img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="260" alt="App scan view" style="border-radius: 20px; border: 4px solid #333;">
+      </td>
+      <td>
+        <p align="center"><b>Step 2: Instant History</b></p>
+        <img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" width="260" alt="History details view" style="border-radius: 20px; border: 4px solid #333;">
+      </td>
+      <td>
+        <p align="center"><b>Step 3: Audio Narration</b></p>
+        <img src="https://github.com/user-attachments/assets/44172fb3-64cf-44dd-b6b6-7cde2c9f8d29" width="260" alt="Audio narration view" style="border-radius: 20px; border: 4px solid #333;">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
-  
-  <tr style="border: none;">
-    <td width="30%"><b>📸 Point. Scan. Discover.</b></td>
-    <td width="3%"></td> <!-- Invisible spacing column -->
-    <td width="30%"><b>🏛️ 1,700 Years of History — Instantly</b></td>
-    <td width="3%"></td> <!-- Invisible spacing column -->
-    <td width="30%"><b>🗣️ Hear It In Your Language</b></td>
-  </tr> 
-   
-  <tr style="border: none;">
-    <td><img src="https://github.com/user-attachments/assets/b29418a4-68ff-41fe-aa2e-bb4b356ac9e1" width="32% alt="Scanning Interface"></td>
-    <td></td>
-    <td><img src="https://github.com/user-attachments/assets/161202c6-1517-4d99-917c-245540b37177" width="32% alt="Artifact Result Card"></td>
-    <td></td>
-    <td><img src="https://github.com/user-attachments/assets/44172fb3-64cf-44dd-b6b6-7cde2c9f8d29" width="32% alt="Multilingual Audio"></td>
-  </tr>
-</table>
 | **Live camera locks onto the artifact** — just point your phone and tap. No QR codes. No setup. | **Full history, period, and cultural context** — identified in seconds from a single photo. | **English and Bengali narration** — tap to hear the artifact's story spoken aloud in your language. |
 
 ---
