@@ -295,7 +295,7 @@ ArtifactX knowledge base is curated across all 9 sections of the **Indian Museum
 | # | Section | Key Artifacts |
 |---|---|---|
 | 1 | Archaeology | Bharhut Stupa, Gandhara sculptures, Didarganj Yakshi |
-| 2 | Numismatics & Coins | 50,000+ coins — Gupta gold, Kushana, Mughal |
+| 2 | Numismatics & Coins | 50,000+ coins — Gupta gold, Kushana, Mughal, Old currencies |
 | 3 | Art | Mughal miniatures, Kalighat paintings, Chola bronzes |
 | 4 | Anthropology | Tribal objects, Andaman & Nicobar artifacts |
 | 5 | Geology | Dinosaur bones, meteorites, Gondwana fossils |
