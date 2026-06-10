@@ -25,7 +25,7 @@
 │                        👤 VISITOR                                   │
 │                                                                     │
 │           Opens browser on phone — zero install needed              │
-│           magenta-stroopwafel-02617e.netlify.app                           │
+│           magenta-stroopwafel-02617e.netlify.app                    │
 └───────────────────────────┬─────────────────────────────────────────┘
                             │
                             ▼
@@ -43,35 +43,35 @@
 │   Live camera (getUserMedia API)  ──OR──  Gallery file picker       │
 │         │                                                           │
 │         ▼                                                           │
-│   Image optimised & compressed to ≤1024px JPEG on-device           │
+│   Image optimised & compressed to ≤1024px JPEG on-device            │
 └───────────────────────────┬─────────────────────────────────────────┘
                             │  HTTPS POST
                             ▼
 ┌─────────────────────────────────────────────────────────────────────┐
 │             🧠 MUSEUM ENGINE V1.0 — AI VISION CORE                  │
 │                                                                     │
-│   ┌─────────────────────────────────────────────────────────┐      │
-│   │  STEP 1 · VALIDATE                                      │      │
-│   │  Is this image a real museum artifact?                  │      │
-│   └──────────────┬──────────────────────┬───────────────────┘      │
+│   ┌─────────────────────────────────────────────────────────┐       │
+│   │  STEP 1 · VALIDATE                                      │       │
+│   │  Is this image a real museum artifact?                  │       │
+│   └──────────────┬──────────────────────┬───────────────────┘       │
 │                  │                      │                           │
 │                  ▼                      ▼                           │
-│          ❌ NOT AN ARTIFACT       ✅ IS AN ARTIFACT                  │
+│          ❌ NOT AN ARTIFACT       ✅ IS AN ARTIFACT                │
 │          Friendly rejection       Proceed to Step 2                 │
 │          message shown                   │                          │
 │                                          ▼                          │
-│   ┌──────────────────────────────────────────────────────────┐     │
-│   │  STEP 2 · IDENTIFY                                       │     │
-│   │  Name · Historical Period · Origin · Category            │     │
-│   │  Confidence expressed: "Possibly" / "Likely" if partial  │     │
-│   └──────────────────────────┬───────────────────────────────┘     │
+│   ┌──────────────────────────────────────────────────────────┐      │
+│   │  STEP 2 · IDENTIFY                                       │      │
+│   │  Name · Historical Period · Origin · Category            │      │
+│   │  Confidence expressed: "Possibly" / "Likely" if partial  │      │
+│   └──────────────────────────┬───────────────────────────────┘      │
 │                              │                                      │
 │                              ▼                                      │
-│   ┌──────────────────────────────────────────────────────────┐     │
-│   │  STEP 3 · GENERATE                                       │     │
-│   │  Full history · Cultural context · Fun facts             │     │
-│   │  Output in English  +  Visitor's native language         │     │
-│   └──────────────────────────┬───────────────────────────────┘     │
+│   ┌──────────────────────────────────────────────────────────┐      │
+│   │  STEP 3 · GENERATE                                       │      │
+│   │  Full history · Cultural context · Fun facts             │      │
+│   │  Output in English  +  Visitor's native language         │      │
+│   └──────────────────────────┬───────────────────────────────┘      │
 └─────────────────────────────┬┘                                      
                               │  Structured JSON response
                               ▼
@@ -90,7 +90,7 @@
 │   Primary:   Web Speech API — device-native, zero latency           │
 │   Fallback:  gTTS — for languages not supported natively            │
 │                                                                     │
-│   [ 🔊 English ]          [ 🔊 Native Language ]                    │
+│   [ 🔊 English ]          [ 🔊 Native Language ]                   │
 │                                                                     │
 │        Visitor listens to the artifact's story in their language    │
 └─────────────────────────────────────────────────────────────────────┘
