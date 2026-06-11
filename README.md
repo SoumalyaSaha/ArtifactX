@@ -170,6 +170,28 @@ No QR codes. No downloads. No setup. Just point and scan.
 
 ---
 
+
+## 🏆 Why ArtifactX Beats Every General-Purpose AI Tool
+
+> Google Lens tells you *what* something is. ArtifactX tells you *its story* — and speaks it to you in your own language.
+
+| Feature | ArtifactX | Google Lens / General AI |
+|---|---|---|
+| **Purpose** | Museum-specific, deep cultural context | General-purpose visual search |
+| **Output** | Full history, cultural significance, fun facts | Basic search results / web links |
+| **Audio Narration** | Speaks the artifact's story aloud in your language | No narration |
+| **Multilingual Output** | 13+ languages including Bengali, Hindi, Tamil, Arabic | UI translation only, no narrated content |
+| **Artifact Validation** | Rejects non-artifacts with a friendly message | No domain-specific filtering |
+| **Confidence Expression** | Says "Possibly" or "Likely" when uncertain | No uncertainty signalling |
+| **Museum Knowledge Base** | Curated across all 9 sections of Indian Museum, Kolkata | No museum-specific knowledge |
+| **Infrastructure Needed** | Zero — works on any museum, any artifact, worldwide | Depends on indexed web content |
+| **Response Format** | Structured: name, period, origin, category, history, fun facts | Unstructured web search results |
+
+### 🔍 The Core Difference
+- Google Lens **links you to the web.** ArtifactX **is** the complete guide — no clicking around required.
+- General AI tools have no concept of *"is this a museum artifact?"* ArtifactX validates, identifies, and educates — all in one scan.
+- ArtifactX is **purpose-built for museums**, not adapted from a general tool — meaning every response is historically framed, educationally structured, and narrated aloud in the visitor's native language.
+- No other tool combines **visual recognition + deep history + multilingual audio narration** in a zero-install mobile experience.
 ## ✨ Key Features
 
 - 📷 **Visual Artifact Scanning** — photograph any artifact using your phone camera
