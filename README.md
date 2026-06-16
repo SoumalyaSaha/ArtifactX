@@ -2,19 +2,19 @@
 
 ### Your personal museum guide, in any language.
 
-[![Track](https://img.shields.io/badge/Track-Smart%20Tourism%20%26%20Heritage%20Technology-orange)](https://taupe-squirrel-3eb092.netlify.app/)
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://taupe-squirrel-3eb092.netlify.app/)
+[![Track](https://img.shields.io/badge/Track-Smart%20Tourism%20%26%20Heritage%20Technology-orange)](https://artifactx.netlify.app/)
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://artifactx.netlify.app/)
 [![Built For](https://img.shields.io/badge/Built%20For-Tradition%20Hacks%202026-gold)](https://unstop.com)
-[![No Install](https://img.shields.io/badge/No%20Install-Works%20in%20Browser-blue)](https://taupe-squirrel-3eb092.netlify.app/)
-[![Accuracy](https://img.shields.io/badge/Accuracy-~100%25%20on%20clear%20images-brightgreen)](https://taupe-squirrel-3eb092.netlify.app/)
+[![No Install](https://img.shields.io/badge/No%20Install-Works%20in%20Browser-blue)](https://artifactx.netlify.app/)
+[![Accuracy](https://img.shields.io/badge/Accuracy-~100%25%20on%20clear%20images-brightgreen)](https://artifactx.netlify.app/)
 
 ---
 
 ## 🔗 Live Demo
 
-**👉 [https://taupe-squirrel-3eb092.netlify.app/](https://taupe-squirrel-3eb092.netlify.app/)**
+**👉 [https://artifactx.netlify.app/](https://artifactx.netlify.app/)**
 
-**📊 [Live Stats Dashboard](https://taupe-squirrel-3eb092.netlify.app/stats.html)** · **[⚙️ Backend Repo](https://github.com/SoumalyaSaha/artifactx-backend)**
+**📊 [Live Stats Dashboard](https://artifactx.netlify.app/stats.html)** · **[⚙️ Backend Repo](https://github.com/SoumalyaSaha/artifactx-backend)**
 
 > Open on your phone, point at any museum artifact, and tap scan. No install required.
 
@@ -27,7 +27,7 @@
 │                        👤 VISITOR                                   │
 │                                                                     │
 │           Opens browser on phone — zero install needed              │
-│           taupe-squirrel-3eb092.netlify.app                         │
+│             https://artifactx.netlify.app/stats.html                │
 └───────────────────────────┬─────────────────────────────────────────┘
                             │
                             ▼
@@ -213,7 +213,7 @@ No QR codes. No downloads. No setup. Just point and scan.
 ┌─────────────────────────────────────────────────────────────┐
 │                     USER'S PHONE                            │
 │                                                             │
-│   📱 Open browser → taupe-squirrel-3eb092.netlify.app              │
+│   📱 Open browser → https://artifactx.netlify.app/          │
 │              │                                              │
 │              ▼                                              │
 │   📷 Camera / Gallery → Capture Artifact Image              │
@@ -403,7 +403,7 @@ Bengali · Hindi · Tamil · Telugu · Marathi · Urdu · Arabic · French · Sp
 
 ArtifactX works instantly in any browser:
 
-👉 **[https://taupe-squirrel-3eb092.netlify.app/](https://taupe-squirrel-3eb092.netlify.app/)**
+👉 **[https://artifactx.netlify.app/](https://artifactx.netlify.app/)**
 
 ### Run Locally
 
