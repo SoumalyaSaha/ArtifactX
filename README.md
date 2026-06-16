@@ -366,7 +366,6 @@ ArtifactX was tested across **4 independent users**, each scanning a different a
 | **AI Vision** | Google Gemini 2.5 Flash (via Museum Engine V1.0) |
 | **Backend** | Node.js + Express (hosted on Railway) |
 | **Text-to-Speech** | Web Speech API (device-native) + gTTS fallback |
-| **Fonts** | Cinzel, Crimson Pro, JetBrains Mono (Google Fonts) |
 | **Icons** | Tabler Icons |
 | **Hosting** | Netlify (static frontend) + Railway (backend) |
 | **Camera** | `getUserMedia` API + `capture="environment"` fallback |
