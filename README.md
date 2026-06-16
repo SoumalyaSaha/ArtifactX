@@ -403,7 +403,7 @@ Bengali · Hindi · Tamil · Telugu · Marathi · Urdu · Arabic · French · Sp
 
 ArtifactX works instantly in any browser:
 
-👉 **[https://artifactx.netlify.app/](https://artifactx-scanner.netlify.app/)**
+👉 **[https://artifactx-scanner.netlify.app/](https://artifactx-scanner.netlify.app/)**
 
 ### Run Locally
 
